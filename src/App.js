@@ -2,7 +2,7 @@ import React, { useEffect,useState } from "react";
 import './App.css';
 import MovieCard from './MovieCard';
 
-const API_URL = 'http://www.omdbapi.com/?i=tt3896198&apikey=b91d937b';
+const API_URL = 'https://www.omdbapi.com/?i=tt3896198&apikey=b91d937b';
 
 const App = () => {
 
